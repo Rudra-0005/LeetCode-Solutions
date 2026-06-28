@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -27,5 +28,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
