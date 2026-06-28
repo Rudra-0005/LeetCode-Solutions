@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
