@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1672-richest-customer-wealth](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
