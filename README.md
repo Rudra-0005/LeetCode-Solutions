@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
