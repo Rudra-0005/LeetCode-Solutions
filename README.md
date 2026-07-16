@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
