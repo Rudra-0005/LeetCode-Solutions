@@ -1,7 +1,7 @@
 class Solution {
     public String removeDuplicates(String s) {
         int n=s.length();
-        StringBuilder ans=new StringBuilder();
+        StringBuilder ans=new StringBuilder(s.length());
         for(int i = 0 ; i<n;i++){
             char ch=s.charAt(i);
 
