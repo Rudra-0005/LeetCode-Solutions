@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
