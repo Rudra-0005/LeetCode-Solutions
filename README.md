@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [2574-left-and-right-sum-differences](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Stack
 |  |
