@@ -9,8 +9,8 @@ class Solution {
         int Lsum=0;
         for(int i=0;i<n;i++){
             int Rsum=Tsum-Lsum-nums[i];
-            ans[i]=Lsum-Rsum;
-            if(ans[i]==0){
+            
+            if(Lsum==Rsum){
                 return i;
             }
             Lsum+=nums[i];
