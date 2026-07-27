@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
