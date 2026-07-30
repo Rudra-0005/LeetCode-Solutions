@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
