@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -152,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 <!---LeetCode Topics End-->
