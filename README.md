@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
