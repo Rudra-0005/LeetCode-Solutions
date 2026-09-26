@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -183,6 +185,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
