@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
