@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -210,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
