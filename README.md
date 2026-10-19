@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
