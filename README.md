@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2235-add-two-integers](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
