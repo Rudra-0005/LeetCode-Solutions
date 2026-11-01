@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rudra-0005/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
