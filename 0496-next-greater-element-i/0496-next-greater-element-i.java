@@ -1,26 +1,28 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int n = nums1.length;
-        int m = nums2.length;
-        int[] ans = new int[n];
+        Map<Integer, Integer> map = new HashMap<>();
+        Deque<Integer> st = new ArrayDeque<>();
 
-        for (int i = 0; i < n; i++) {
-            ans[i] = -1;
+        // Find next greater element for nums2
+        for (int num : nums2) {
 
-            int j = 0;
-
-            // Find nums1[i] in nums2
-            while (nums2[j] != nums1[i]) {
-                j++;
+            while (!st.isEmpty() && st.peek() < num) {
+                map.put(st.pop(), num);
             }
 
-            // Search for next greater element
-            for (j = j + 1; j < m; j++) {
-                if (nums2[j] > nums1[i]) {
-                    ans[i] = nums2[j];
-                    break;
-                }
-            }
+            st.push(num);
+        }
+
+        // Remaining elements have no greater element
+        while (!st.isEmpty()) {
+            map.put(st.pop(), -1);
+        }
+
+        // Build answer for nums1
+        int[] ans = new int[nums1.length];
+
+        for (int i = 0; i < nums1.length; i++) {
+            ans[i] = map.get(nums1[i]);
         }
 
         return ans;
