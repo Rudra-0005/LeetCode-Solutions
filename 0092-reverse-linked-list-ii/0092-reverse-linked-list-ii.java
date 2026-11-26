@@ -1,14 +1,27 @@
 class Solution {
 
-    public ListNode reverse(ListNode head, int left, int right) {
+    public ListNode reverseBetween(ListNode head, int left, int right) {
+
+        if(head == null || left == right){
+            return head;
+        }
+
+        ListNode prevNode = null;
+        ListNode temp = head;
+
+        // Reach the node at position left
+        for(int i = 1; i < left; i++){
+            prevNode = temp;
+            temp = temp.next;
+        }
+
+        ListNode start = temp;
+        ListNode prev = null;
+        ListNode curr = temp;
 
         int iterations = right - left + 1;
 
-        ListNode curr = head;
-        ListNode prev = null;
-
-        for(int i = 1; i <= iterations; i++) {
-
+        for(int i = 1; i <= iterations; i++){
             ListNode forward = curr.next;
 
             curr.next = prev;
@@ -17,36 +30,15 @@ class Solution {
             curr = forward;
         }
 
-        // Original head of this segment is now its tail
-        head.next = curr;
+        // Connect the original start (now tail) to the remaining list
+        start.next = curr;
 
-        return prev;
-    }
-
-    public ListNode reverseBetween(ListNode head, int left, int right) {
-
-        if(head == null || left == right) {
-            return head;
+        // Connect the node before the reversed section
+        if(prevNode == null){
+            head = prev;
         }
-
-        ListNode RunNode = head;
-        ListNode prevNode = null;
-
-        // Move RunNode to position left
-        // prevNode will store the node before left
-        for(int i = 1; i < left; i++) {
-            prevNode = RunNode;
-            RunNode = RunNode.next;
-        }
-
-        ListNode revHead = reverse(RunNode, left, right);
-
-        // Connect the reversed portion to the original list
-        if(prevNode == null) {
-            head = revHead;
-        }
-        else {
-            prevNode.next = revHead;
+        else{
+            prevNode.next = prev;
         }
 
         return head;
